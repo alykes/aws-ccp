@@ -83,13 +83,16 @@ Measured Service:
 IaaS  
   - Provides building blocks for cloud IT  
   - network, computing, storage  
+
 PaaS  
   - org doesn't need to manage underlying infra  
   - focus on deployment and management of apps  
+
 SaaS  
   - complete product that is run and managed by a service provider  
 
-On-Prem: Manage everything.  
+On-Prem: Manage everything. 
+
 IaaS: Virtualisation, Serers, Storage and networking managed by others.  
   - GCP, Azure, AWS  
   - EC2    
@@ -97,7 +100,7 @@ IaaS: Virtualisation, Serers, Storage and networking managed by others.
 PaaS: Manage Data and Apps  
   - AWS Elastic Beanstalk  
   - Azure App Service  
-  
+
 SaaS: Manage nothing  
   - AWS Rekognition for ML  
   - GMail, DropBox, Zoom  
