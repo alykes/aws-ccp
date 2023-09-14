@@ -116,3 +116,8 @@ AWS has three pricing fundamentals:
 
 **This solves the expensive issue of traditional IT**  
 
+### AWS Cloud History  
+2002: Launched internally  
+2004: Public offering with SQS  
+2006: Re-launched with SQS, S3 and EC2  
+2007: Launched in Europe  
