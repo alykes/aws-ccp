@@ -93,9 +93,11 @@ On-Prem: Manage everything.
 IaaS: Virtualisation, Serers, Storage and networking managed by others.  
   - GCP, Azure, AWS  
   - EC2    
+
 PaaS: Manage Data and Apps  
   - AWS Elastic Beanstalk  
   - Azure App Service  
+  
 SaaS: Manage nothing  
   - AWS Rekognition for ML  
   - GMail, DropBox, Zoom  
